@@ -2,6 +2,6 @@
 
 ## Build and Run
 
-`cmake -B build`
-`cd build && make`
-`./raysnake`
+```cmake -B build```
+```cd build && make```
+```./raysnake```
